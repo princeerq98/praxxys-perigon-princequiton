@@ -21,7 +21,7 @@ How to use:
   cd ionicsome
   
 3. Once you're in the correct directory, Install all dependencies.
-  npm install
+  npm install 
   or
   npm install --force
 
