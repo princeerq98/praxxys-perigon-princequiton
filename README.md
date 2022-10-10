@@ -3,8 +3,6 @@
 This Mobile App is created by Prince Emmanuel Regidor Quiton for PRAXXYS Solutions Inc.
 
 
-
-
 Pre-requisites to run the Mobile App:
 
 1. Node JS installed
@@ -28,8 +26,21 @@ How to use:
   ionic serve
   
 5.That's it, Hope you appreciate it.
+Thank you.
 
- 
+*Note : Quick Fixes if bug may occur*
+
+1. for "No Eslint Config" Just Run the command below, then Close the bug:
+  npm install eslint -g -D
+  eslint --init
   
-  Thank you.
+2. You may signup or use my credentials to log onto the app:
+  email: princequiton@gmail.com
+  password: emmanuel
+  
+  
+  
+  
+   
+ 
 
