@@ -17,6 +17,7 @@ How to use:
   git clone https://github.com/princeerq98/praxxys-perigon-princequiton.git
   
 2. Change the directory into the project name ionicsome
+  cd praxxys-perigon-princequiton
   cd ionicsome
   
 3. Once you're in the correct directory, Install all dependencies.
@@ -30,11 +31,11 @@ Thank you.
 
 *Note : Quick Fixes if bug may occur*
 
-1. for "No Eslint Config" Just Run the command below, then Close the bug:
-  1.1      npm install eslint -g -D
-  1.2       eslint --init
+* for "No Eslint Config" Just Run the command below, then Close the bug:*
+  npm install eslint -g -D
+  eslint --init
   
-2. You may signup or use my credentials to log onto the app:
+* You may signup or use my credentials to log onto the app:*
   email: princequiton@gmail.com
   password: emmanuel
   
