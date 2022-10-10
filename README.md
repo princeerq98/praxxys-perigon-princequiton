@@ -7,7 +7,7 @@ This Mobile App is created by Prince Emmanuel Regidor Quiton for PRAXXYS Solutio
 
 Pre-requisites to run the Mobile App:
 
-1. Node JS to be installed
+1. Node JS installed
 2. Ionic cli: 
    npm install -g @ionic/cli
 3.VS Code
@@ -18,7 +18,7 @@ How to use:
 1. Clone the App 
   git clone https://github.com/princeerq98/praxxys-perigon-princequiton.git
   
-2. cd into the project.
+2. Change the directory into the project name ionicsome
   cd ionicsome
   
 3. Once you're in the correct directory, Install all dependencies.
