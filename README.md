@@ -31,8 +31,8 @@ Thank you.
 *Note : Quick Fixes if bug may occur*
 
 1. for "No Eslint Config" Just Run the command below, then Close the bug:
-  npm install eslint -g -D
-  eslint --init
+  1.1      npm install eslint -g -D
+  1.2       eslint --init
   
 2. You may signup or use my credentials to log onto the app:
   email: princequiton@gmail.com
