@@ -15,7 +15,7 @@ Pre-requisites to run the Mobile App:
 How to use:
 
 1. Clone the App 
-  git clone <github link of this repository>
+  git clone https://github.com/princeerq98/praxxys-perigon-princequiton.git
   
 2. cd into the project.
   cd ionicsome
