@@ -10,6 +10,7 @@ Pre-requisites to run the Mobile App:
 1. Node JS to be installed
 2. Ionic cli: 
    npm install -g @ionic/cli
+3.VS Code
 
 
 How to use:
