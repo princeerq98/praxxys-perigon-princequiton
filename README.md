@@ -20,7 +20,7 @@ How to use:
 2. cd into the project.
   cd ionicsome
   
-3. Once in the correct directory, Install the dependencies.
+3. Once you're in the correct directory, Install all dependencies.
   npm install
 
 4. Run the project
