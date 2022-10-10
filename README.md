@@ -2,6 +2,7 @@
 
 This Mobile App is created by Prince Emmanuel Regidor Quiton for PRAXXYS Solutions Inc.
 
+*Kindly Click this link to view instructions properly : https://raw.githubusercontent.com/princeerq98/praxxys-perigon-princequiton/main/README.md
 
 Pre-requisites to run the Mobile App:
 
