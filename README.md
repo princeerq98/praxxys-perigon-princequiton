@@ -22,6 +22,8 @@ How to use:
   
 3. Once you're in the correct directory, Install all dependencies.
   npm install
+  or
+  npm install --force
 
 4. Run the project
   ionic serve
